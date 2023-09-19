@@ -43,11 +43,11 @@ El sensor de movimiento realiza un pulso cada cierto tiempo (parámetro ajustabl
 
 ![](https://autopuerta.net/wp-content/uploads/2023/06/como-funciona-el-mecanismo-de-una-puerta-automatica.jpg)
 
-# Ejemplo en uso de un sensor PIR con Arduino
-
-Solo presionando [AQUÍ](https://youtu.be/MqxLa4vo4Ok?t=1036).
-
 **Sistemas de seguridad.** Para activar una alarma o iniciar la grabación de cámaras de seguridad únicamente cuando detecten movimiento de personas o animales.
 
 ![](https://cuadernosdeseguridad.com/wp-content/uploads/2018/01/cctv-cra.jpg)
+
+# Ejemplo en uso de un sensor PIR con Arduino
+
+Solo presionando [AQUÍ](https://youtu.be/MqxLa4vo4Ok?t=1036).
 
