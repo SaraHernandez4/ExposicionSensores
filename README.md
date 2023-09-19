@@ -6,7 +6,7 @@
 
 ## Repositorio: ------
 
-## Fecha de revisión: 25/Agosto/2023
+## Fecha de revisión: 19/Septiembre/2023
 
 ##
 
@@ -20,7 +20,7 @@ Aprender más de GitHub y explorar las distintas cosas que ofrece en su platafor
 ## SISTEMAS PROGRAMABLES 23a
 ## Autor (es): Hernández Sáenz Sara Jazmín
 ## Repositorio:  -----
-## Fecha de revisión:   25/Ago/2023
+## Fecha de revisión:   19/Septiembre/2023
 ## Objetivo: Aprender más de GitHub
 ##   
 
