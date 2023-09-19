@@ -37,4 +37,6 @@ Un sensor PIR o piroeléctrico funciona comparando la temperatura que desprende 
 
 **Sistemas de apertura automática.** Se implementan en sistemas de apertura para proceder a activarlas de forma automática cuando detectan movimiento. En este tipo de sistemas tenemos la apertura de puertas y barreras, los grifos de agua y puertas de ascensor y similares.
 
+![](https://autopuerta.net/wp-content/uploads/2023/06/como-funciona-el-mecanismo-de-una-puerta-automatica.jpg)
+
 **Sistemas de seguridad.** Para activar una alarma o iniciar la grabación de cámaras de seguridad únicamente cuando detecten movimiento de personas o animales.
