@@ -25,3 +25,8 @@ Los detectores pasivos infrarrojos o PIR (Passive Infrared) son dispositivos que
 Un sensor PIR está compuesto principalmente por un componente (sensor piroeléctrico) que se encarga de detectar variaciones en las radiaciones infrarrojas que recibe y las procesa como una señal electrica
 
 **_Ficha Técnica_**
+### ¿Cómo funciona un sensor de movimiento de pasivos infrarrojos?
+Un sensor PIR o piroeléctrico funciona comparando la temperatura que desprende un objeto con la de su alrededor, de forma que puede detectar con precisión una presencia en un lugar determinado.
+
+![](https://i0.wp.com/blog.330ohms.com/wp-content/uploads/2020/12/destacada.png?resize=696%2C392&ssl=1)
+
