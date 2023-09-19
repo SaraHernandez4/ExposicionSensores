@@ -33,6 +33,8 @@ Un sensor PIR o piroeléctrico funciona comparando la temperatura que desprende 
 ### Principales usos de los sensores de movimiento PIR
 **Sistemas de iluminación automática.** Se utilizan en sistema de iluminación automática para encender una luz cuando se detecta el movimiento o presencia de una persona. Es muy útil en sistemas de alumbrado automatizados para ahorrar energía, ya que el sistema se activa solo cuando es necesario.
 
+![](https://imagenes.elpais.com/resizer/6R915_uHvEsm-uRsGsFZD1MGX9Q=/414x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/AQ6HIA3NL5DRPACANEIIUQUSIM.jpg)
+
 **Sistemas de apertura automática.** Se implementan en sistemas de apertura para proceder a activarlas de forma automática cuando detectan movimiento. En este tipo de sistemas tenemos la apertura de puertas y barreras, los grifos de agua y puertas de ascensor y similares.
 
 **Sistemas de seguridad.** Para activar una alarma o iniciar la grabación de cámaras de seguridad únicamente cuando detecten movimiento de personas o animales.
