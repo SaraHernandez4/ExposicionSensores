@@ -14,9 +14,7 @@
 Aprender más de GitHub y explorar las distintas cosas que ofrece en su plataforma.
 
 
-# Exposición Sensor
-
-# Por Hernandez Saenz Sara Jazmin
+# Exposición Sensor PIR Motion Sensor
 
 ![][]()
 
