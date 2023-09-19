@@ -22,7 +22,12 @@ Los detectores pasivos infrarrojos o PIR (Passive Infrared) son dispositivos que
 
 ![](https://www.puntoflotante.net/SENSOR-HC-SR501-1000-M.jpg)
 
-Un sensor PIR está compuesto principalmente por un componente (sensor piroeléctrico) que se encarga de detectar variaciones en las radiaciones infrarrojas que recibe y las procesa como una señal electrica
+Un sensor PIR está compuesto principalmente por un componente (sensor piroeléctrico) que se encarga de detectar variaciones en las radiaciones infrarrojas que recibe y las procesa como una señal electrica.
+
+## Modos de operación
+El módulo HC-SRR501 contiene **dos potenciómetros o controles** para determinar el funcionamiento del sensor. Uno de ellos **determina la sensibilidad (distancia de detección)** y el otro **el retraso entre cada pulso (pausas por detección)**. También se pueden modificar para detectar 1 solo disparo o disparos repetitivos. La imagen ilustra la composición del módulo.
+
+![](https://i0.wp.com/blog.330ohms.com/wp-content/uploads/2020/12/HC-SR501.png?w=523&ssl=1)
 
 **_Ficha Técnica_**
 ### ¿Cómo funciona un sensor de movimiento de pasivos infrarrojos?
@@ -36,19 +41,11 @@ El sensor de movimiento realiza un pulso cada cierto tiempo (parámetro ajustabl
 
 ### Principales usos de los sensores de movimiento PIR
 
-
 |                  Usos                 | Descripciones                 |Imágen de referencia                                                                           |
 |---------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------|
 |**Sistemas de iluminación automática.**|`'Se utilizan en sistema de iluminación automática para encender una luz cuando se detecta el movimiento o presencia de una persona. Es muy útil en sistemas de alumbrado automatizados para ahorrar energía, ya que el sistema se activa solo cuando es necesario.'`             |![](https://imagenes.elpais.com/resizer/6R915_uHvEsm-uRsGsFZD1MGX9Q=/414x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/AQ6HIA3NL5DRPACANEIIUQUSIM.jpg)|
 |**Sistemas de apertura automática.**|`'Se implementan en sistemas de apertura para proceder a activarlas de forma automática cuando detectan movimiento. En este tipo de sistemas tenemos la apertura de puertas y barreras, los grifos de agua y puertas de ascensor y similares.'`             |![](https://autopuerta.net/wp-content/uploads/2023/06/como-funciona-el-mecanismo-de-una-puerta-automatica.jpg)|
 |**Sistemas de seguridad.**|`'Para activar una alarma o iniciar la grabación de cámaras de seguridad únicamente cuando detecten movimiento de personas o animales.'`|![](https://cuadernosdeseguridad.com/wp-content/uploads/2018/01/cctv-cra.jpg)|
-
-
-
-
-
- 
-
 
 
 # Ejemplo en uso de un sensor PIR con Arduino
