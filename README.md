@@ -1,17 +1,17 @@
-# Depto de Sistemas y Computación
+# Departamento de Sistemas y Computación
 # Ing. En Sistemas Computacionales
-# SISTEMAS PROGRAMABLES 23a
+# Sistemas Programables 23a
 
 ## Autor (es): Hernández Sáenz Sara Jazmín
 ## Fecha de revisión: 19/Septiembre/2023
 
-# OBJETIVO:
+**_Objetivo_**
 Aprender más de GitHub y explorar las distintas cosas que ofrece en su plataforma.
 
 
 # Exposición Sensor PIR Motion Sensor
 
-**Marco Teórico**
+**_Marco Teórico_**
 ## Sensores
 El uso de sensores se ha convertido en una herramienta habitual en muchos sectores industriales y empresariales, pues **permiten controlar de forma remota distintos parámetros interesantes**. Por ejemplo, un sensor de movimiento es un elemento que se utiliza en seguridad para identificar el tránsito de personas y puede implementarse en sistemas de alarma, cámaras de videovigilancia y similares. A continuación, hablaremos de los sensores de movimiento PIR, cómo funciona un sensor de movimiento de este tipo y por qué son tan populares en la actualidad.
 
@@ -24,4 +24,4 @@ Los detectores pasivos infrarrojos o PIR (Passive Infrared) son dispositivos que
 
 Un sensor PIR está compuesto principalmente por un componente (sensor piroeléctrico) que se encarga de detectar variaciones en las radiaciones infrarrojas que recibe y las procesa como una señal electrica
 
-**Ficha Técnica**
+**_Ficha Técnica_**
