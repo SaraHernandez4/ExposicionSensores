@@ -5,8 +5,6 @@
 ## Autor (es): Hernández Sáenz Sara Jazmín
 ## Fecha de revisión: 19/Septiembre/2023
 
-##
-
 # OBJETIVO:
 Aprender más de GitHub y explorar las distintas cosas que ofrece en su plataforma.
 
