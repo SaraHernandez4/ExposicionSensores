@@ -17,5 +17,11 @@ El uso de sensores se ha convertido en una herramienta habitual en muchos sector
 
 ![](https://sites.google.com/a/utecnologica.edu.bo/iot-wearablesensaludutb/_/rsrc/1458974819461/sobre/marco-teorico/sensores/robotica-introduccin-17-638.jpg)
 
+## ¿Qué es el sensor PIR?
+Los detectores pasivos infrarrojos o PIR (Passive Infrared) son dispositivos que detectan variaciones de la radiación infrarroja en el área de cobertura, por lo que son especialmente útiles para detectar la presencia de personas o animales a través del calor que emiten sus cuerpos. El concepto pasivo del nombre de PIR hace referencia a que no generan de forma activa ninguna señal y solo reciben radiaciones para su funcionamiento.
+
+![]([https://sites.google.com/a/utecnologica.edu.bo/iot-wearablesensaludutb/_/rsrc/1458974819461/sobre/marco-teorico/sensores/robotica-introduccin-17-638.jpg](https://mvelectronica.s3.us-east-2.amazonaws.com/productos/SPIR/60391702abd29.webp))
+
+Un sensor PIR está compuesto principalmente por un componente (sensor piroeléctrico) que se encarga de detectar variaciones en las radiaciones infrarrojas que recibe y las procesa como una señal electrica
 
 **Ficha Técnica**
