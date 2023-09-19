@@ -2,10 +2,7 @@
 # Ing. En Sistemas Computacionales
 # SISTEMAS PROGRAMABLES 23a
 
-# Autor (es): Hernández Sáenz Sara Jazmín
-
-## Repositorio: ------
-
+## Autor (es): Hernández Sáenz Sara Jazmín
 ## Fecha de revisión: 19/Septiembre/2023
 
 ##
@@ -16,9 +13,13 @@ Aprender más de GitHub y explorar las distintas cosas que ofrece en su platafor
 
 # Exposición Sensor PIR Motion Sensor
 
+## Sensores
+El uso de sensores se ha convertido en una herramienta habitual en muchos sectores industriales y empresariales, pues permiten controlar de forma remota distintos parámetros interesantes. Por ejemplo, un sensor de movimiento es un elemento que se utiliza en seguridad para identificar el tránsito de personas y puede implementarse en sistemas de alarma, cámaras de videovigilancia y similares. A continuación, hablaremos de los sensores de movimiento PIR, cómo funciona un sensor de movimiento de este tipo y por qué son tan populares en la actualidad.
+
 ![][]()
 
 
-**Marco teórico**
+## Marco teórico
+
 
 **Ficha Técnica**
