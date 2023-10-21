@@ -50,7 +50,7 @@ El sensor de movimiento realiza un pulso cada cierto tiempo (parámetro ajustabl
 
 # Ejemplo en uso de un sensor PIR con Arduino
 
-Obvservar de Youtube : [AQUÍ](https://youtu.be/MqxLa4vo4Ok?t=1036).
+Observar de Youtube : [AQUÍ](https://youtu.be/MqxLa4vo4Ok?t=1036).
 
 ## Código en Arduino para el sensor PIR
 ```python
